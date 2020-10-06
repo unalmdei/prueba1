@@ -1,0 +1,2 @@
+ESte es un primer archivo
+para trabajar con GIT
