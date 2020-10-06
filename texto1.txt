@@ -1,2 +1,4 @@
-ESte es un primer archivo
+-ESte es un primer archivo
 para trabajar con GIT
+
+- Esta línea se agrega, siendo la segunda edición
