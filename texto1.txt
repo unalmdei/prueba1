@@ -2,3 +2,5 @@
 para trabajar con GIT
 
 - Esta línea se agrega, siendo la segunda edición
+
+####Esto se está realizando desde la rama de desarrollo en local
